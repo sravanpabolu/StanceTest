@@ -29,3 +29,6 @@
     
 ## Time Spent
 Approximate time spent: 2-2.5 hours.
+
+## Demo
+[Demo Video](https://github.com/sravanpabolu/StanceTest/blob/master/DemoVideo.mp4)
